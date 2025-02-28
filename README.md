@@ -1,10 +1,10 @@
 # HR Analytics Power BI Dashboard
 
-📌  ##Overview
+## 📌 Overview
 
 The HR Analytics Dashboard provides insights into key HR metrics, enabling data-driven decision-making. This dashboard helps HR professionals analyze employee demographics, attrition rates, and performance trends efficiently using Power BI.
 
-🚀 Key Features
+## 🚀 Key Features
 
 Employee Demographics Analysis: Understand workforce distribution by age, gender, and department.
 
@@ -16,7 +16,7 @@ Salary and Compensation Trends: Analyze salary distributions and trends over tim
 
 Interactive Visuals: Drill-down capability for detailed analysis.
 
-📊 Data Cleaning Process
+## 📊 Data Cleaning Process
 
 Before building the dashboard, the dataset underwent cleaning to ensure accuracy and consistency:
 
@@ -48,7 +48,7 @@ Attrition, JobRole, Department → Text.
 
 OverTime, WorkLifeBalance → Categorical (Text).
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Power BI: Data visualization and dashboard creation.
 
@@ -56,11 +56,11 @@ Power Query: Data cleaning and transformation.
 
 DAX (Data Analysis Expressions): Custom measures and calculated columns.
 
-📥 Dataset
+## 📥 Dataset
 
 The dataset used for this project contains HR-related data, including employee demographics, job roles, salaries, and attrition records.
 
-📎 How to Use the Dashboard
+## 📎 How to Use the Dashboard
 
 Open the HR_Analytics Dashboard.pbix file in Power BI.
 
@@ -68,7 +68,7 @@ Navigate through the various report pages to explore insights.
 
 Use filters and slicers to interact with the data dynamically.
 
-🏆 Insights & Findings
+## 🏆 Insights & Findings
 
 Higher attrition rates were observed in certain departments.
 
@@ -76,7 +76,7 @@ Employees with lower performance scores had a higher tendency to leave.
 
 Salary discrepancies were identified across different job roles and genders.
 
-📢 Future Enhancements
+## 📢 Future Enhancements
 
 Implement predictive analytics to forecast attrition.
 
@@ -84,5 +84,5 @@ Integrate external datasets for industry benchmarking.
 
 Improve real-time data connectivity for dynamic updates.
 
-📌 Developed by [Your Name]🔗 GitHub Profile: [Your GitHub Link]
+
 
